@@ -59,9 +59,9 @@ i.fa-copy{
     display: none;
     transition: 0.5s linear;
     display: inline-block;
-    /* background-color: #B3B7EE; */
     color: rgb(4, 4, 131);
-    background-color: #c7ccd1;
+    box-shadow: 2px 2px 15px rgb(97, 93, 93);
+    backdrop-filter: blur(25px);
 }
 
 /* .clips:hover i.fa-copy{
